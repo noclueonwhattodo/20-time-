@@ -1,4 +1,6 @@
                                                         #In The Beginning
+#hi
+
 Many a times I have failed to make a 20 time. It started with the idea to prototype a new kind of boat, but that qiuckly fell through as I 
 was swamped by trying to learn JS and HTML. As the stress mounted of not having an ongoing 20 time I searched for a subject, anything. 
 After coming across the game paperclips (highly reccomend you play it) and Mr.Osudar telling me not to play it, the withdrawls from the game
