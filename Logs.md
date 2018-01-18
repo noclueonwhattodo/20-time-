@@ -1,5 +1,4 @@
-                                                        #In The Beginning
-#hi
+                                                        # In The Beginning #
 
 Many a times I have failed to make a 20 time. It started with the idea to prototype a new kind of boat, but that qiuckly fell through as I 
 was swamped by trying to learn JS and HTML. As the stress mounted of not having an ongoing 20 time I searched for a subject, anything. 
@@ -33,7 +32,7 @@ to improve myself on a day to day basis.
 On a side note everything above has been written without a commit, I'm sorry Mr.Osudar. Lets also take this oppertunity to learn atomic commits.
 
 
-##Day one 2018-01-16
+## Day one 2018-01-16 ##
 
 The first session started off with a sore wrist and an abismal time of *32.51 WPM*. It seems that the not looking at the keyboard is much harder
 than I origionally thought it to be. I have also noticed that the longer the text, the lower my WPM and accuracy. I hope that overtime my
@@ -41,7 +40,7 @@ consistancy will improve and this will no longer be the case. Furthermore I find
 not words off of a screen. My final score was **33.74-78.02%**, it should be noted that this was probably the longest text I have come across so
 far.
 
-##Day two 2018-01-17
+## Day two 2018-01-17 ##
  
 I woke up from an nap and ate a huge dinner before this session so I was pretty drowsy. I have decided to bump the typing amount to a minimum
 of 15 mins. I can do more than that but I quickly realized that half an hour every day is unreasonable. So far there is no difference 
