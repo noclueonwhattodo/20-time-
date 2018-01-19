@@ -31,3 +31,7 @@ minimum of 15 mins. I can do more than that but I quickly realized that half an 
 ## Day three 2018-01-18 ##
 
 A new day and what a difference. It seems that im finally starting to reap the benefits of re-learning how to type. Useing my old method I was able to achieve about 40WPM. The first day I switched over I was at about 32WPM. Today I hit a record high of 52WPM. I have also done enough games that the website gives me a moving average, and thats pretty neat to see a line of best fit. Consistancy is also moving at an upward albeit at a much slower pace than WPM. Final is **44.94-82.24**.
+
+## Day four 2018-01-19 ##
+
+Today was a day of highs and lows. I started pretty slow because my hands where cold, but quicly rocketed up to a new highscore of **53 WPM even**. For 11 games straight I scored over 40WPM. On 5 occasions I scored over 50WPM. Theres  a pretty big dip in the WPM because I wanted to see how it would effect the results if I left the game running for a bit. During the last few days I had a horrible accuracty (as low as 78%). This kicked me out of the flow I had and really killed my motivation. Final of **42.24-82.57**.
