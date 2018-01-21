@@ -35,3 +35,7 @@ A new day and what a difference. It seems that im finally starting to reap the b
 ## Day four 2018-01-19 ##
 
 Today was a day of highs and lows. I started pretty slow because my hands where cold, but quicly rocketed up to a new highscore of **53 WPM even**. For 11 games straight I scored over 40WPM. On 5 occasions I scored over 50WPM. Theres  a pretty big dip in the WPM because I wanted to see how it would effect the results if I left the game running for a bit. During the last few days I had a horrible accuracty (as low as 78%). This kicked me out of the flow I had and really killed my motivation. Final of **42.24-82.57**.
+
+## Day five 2018-01-20 ##
+
+In all honesty today sucked. I didn't get a highscore, my accuracy sucked and it was a throughrly dissapointing 20 minutes. Towards the end my hands (especially my wrists) really hurt. As dumb as this sounds this might actually be taxing on my body. Well pain is progress so tomorrow should be better **39.07-82.03%**.
