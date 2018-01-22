@@ -39,3 +39,7 @@ Today was a day of highs and lows. I started pretty slow because my hands where 
 ## Day five 2018-01-20 ##
 
 In all honesty today sucked. I didn't get a highscore, my accuracy sucked and it was a throughrly dissapointing 20 minutes. Towards the end my hands (especially my wrists) really hurt. As dumb as this sounds this might actually be taxing on my body. Well pain is progress so tomorrow should be better **39.07-82.03%**.
+
+## Day five 2018-01-21 ##
+
+Today was not better. Take everything that happened yesterday but multiply it by a factor of two; that being said I did learn a few things. It seems that my best performances happen in a trance. This sort of state gives me unadulterated access to my brain, without the interferance of my second guesses or micro corrections. Continuing this exersize should instill the ability to access that part of my brain without having to alter my current state. If I get distracted my score suffers, and the more my score suffers the more frustarated I get. Its not a pretty cycle. *see todays graph for the pattern * it stands out pretty well. **41.96-84.21%** Dont plateau, make progress.
