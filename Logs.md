@@ -21,7 +21,7 @@ On a side note everything above has been written without a commit, I'm sorry Mr.
 
 ## Day one 2018-01-16 ##
 
-The first session started off with a sore wrist and an abismal time of *32.51 WPM*. It seems that the not looking at the keyboard is much harder than I origionally thought it to be. I have also noticed that the longer the text, the lower my WPM and accuracy. I hope that overtime my consistancy will improve and this will no longer be the case. Furthermore I find that I can type much faster when im typing my thoughs, and not words off of a screen. My final score was **33.74-78.02%**, it should be noted that this was probably the longest text I have come across so far.
+The first session started off with a sore wrist and an abismal time of **32.51 WPM**. It seems that the not looking at the keyboard is much harder than I origionally thought it to be. I have also noticed that the longer the text, the lower my WPM and accuracy. I hope that overtime my consistancy will improve and this will no longer be the case. Furthermore I find that I can type much faster when im typing my thoughs, and not words off of a screen. My final score was **33.74-78.02%**, it should be noted that this was probably the longest text I have come across so far.
 
 ## Day two 2018-01-17 ##
  
@@ -40,6 +40,10 @@ Today was a day of highs and lows. I started pretty slow because my hands where 
 
 In all honesty today sucked. I didn't get a highscore, my accuracy sucked and it was a throughrly dissapointing 20 minutes. Towards the end my hands (especially my wrists) really hurt. As dumb as this sounds this might actually be taxing on my body. Well pain is progress so tomorrow should be better **39.07-82.03%**.
 
-## Day five 2018-01-21 ##
+## Day six 2018-01-21 ##
 
 Today was not better. Take everything that happened yesterday but multiply it by a factor of two; that being said I did learn a few things. It seems that my best performances happen in a trance. This sort of state gives me unadulterated access to my brain, without the interferance of my second guesses or micro corrections. Continuing this exersize should instill the ability to access that part of my brain without having to alter my current state. If I get distracted my score suffers, and the more my score suffers the more frustarated I get. Its not a pretty cycle. *see todays graph for the pattern * it stands out pretty well. **41.96-84.21%** Dont plateau, make progress.
+
+## Day seven 2018-01-21 ##
+
+The moment you cease to desire something is the moment it will present itself. My **extremely** :) wise words aside today was a better day. Split up into two sections I easily did over half an hour. The uncertanty was not present and it made a noticeable difference in my typing. Also one week, thats pretty cool. **50.03-86.97%**, not too shabby.
