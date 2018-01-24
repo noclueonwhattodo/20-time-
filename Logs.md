@@ -44,6 +44,10 @@ In all honesty today sucked. I didn't get a highscore, my accuracy sucked and it
 
 Today was not better. Take everything that happened yesterday but multiply it by a factor of two; that being said I did learn a few things. It seems that my best performances happen in a trance. This sort of state gives me unadulterated access to my brain, without the interferance of my second guesses or micro corrections. Continuing this exersize should instill the ability to access that part of my brain without having to alter my current state. If I get distracted my score suffers, and the more my score suffers the more frustarated I get. Its not a pretty cycle. *see todays graph for the pattern * it stands out pretty well. **41.96-84.21%** Dont plateau, make progress.
 
-## Day seven 2018-01-21 ##
+## Day seven 2018-01-22 ##
 
 The moment you cease to desire something is the moment it will present itself. My **extremely** :) wise words aside today was a better day. Split up into two sections I easily did over half an hour. The uncertanty was not present and it made a noticeable difference in my typing. Also one week, thats pretty cool. **50.03-86.97%**, not too shabby.
+
+## Day eight 2018-01-24 ##
+
+Yesterday was a snow day, so I didn't have to do a test (Im an idiot, I completely forgot to do it yesterday). With that being said I got a days rest and came at it hungry for records and improvement. Although this is my last log, this isn't the last time I'm going to use the WPM site. I have come to enjoy trying to beat my record at something productive, and something that I can actually put on a resume. Looking back at my original goals I accomplished them all. I improved my typing speed significantly (I got a record of **54.45WPM** today) with room to improve. I did in fact make a 20 time project, and I used atomic commits. Finally I proved to my self that I have the motivation to work at something day to day to improve myself. I have actually started running and training at lacrosse again thanks to this mentality. Lets go with todays highscore: **54.24-89.58%**. 
